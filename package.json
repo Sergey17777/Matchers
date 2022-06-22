@@ -24,7 +24,7 @@
     "url": "https://github.com/Sergey17777/Matchers/issues"
   },
   "homepage": "https://github.com/Sergey17777/Matchers#readme"
-}
+},
 "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",

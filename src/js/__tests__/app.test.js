@@ -1,10 +1,10 @@
-import { sortByHealth } from '../app';
+﻿import { sortByHealth } from '../app';
 
 const sortCharacters = [
   { name: 'маг', health: 100 },
   { name: 'лучник', health: 80 },
   { name: 'лучник', health: 80 },
-  { ame: 'мечник', health: 10 },
+  { name: 'мечник', health: 10 },
 ];
 
 const unsortCharacters = [
